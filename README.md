@@ -15,6 +15,11 @@ An AI-powered SOC analyst that automatically investigates security alerts, maps 
 - **Groq API (Llama3)** — AI analysis engine
 - **MITRE ATT&CK** — threat intelligence framework
 
+## 🏠 Home Lab Setup
+- Wazuh 4.14.5 OVA deployed on VirtualBox
+- Real network traffic monitored from Kali Linux machine
+- Alerts pulled via SSH from Wazuh server at runtime
+
 ## ⚙️ Setup
 
 ### 1. Clone the repo
